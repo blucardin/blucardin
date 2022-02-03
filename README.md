@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Noah 👋 
+
+I am a grade 10 high school student in Toronto, Canada. I mostly write in python, but I am trying to diversify. 
+
+#Contacts
+
+
+![Noah's github stats](https://github-readme-stats.vercel.app/api?username=blucardin)
 
 <!--
 **blucardin/blucardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
