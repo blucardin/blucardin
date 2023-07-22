@@ -11,6 +11,9 @@ I mostly work in python, but I also know Javascipt (for web development), java (
 
 Feel free to connect or reach out to me! 
 
+## Some Art I Made
+![image](https://github.com/blucardin/cartoonify/blob/0eb2b040f14a9f3a0150a865b8e2566fbe06bc86/treesOutput40.png?raw=true)
+
 
 <!--
 **blucardin/blucardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
