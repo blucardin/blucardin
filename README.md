@@ -4,6 +4,9 @@ I am a ~~grade 12 high school student~~ aspiring developer in Toronto, Canada. I
 
 I mostly work in python, but I also know Javascipt (for web development), java (for school), and C (when I want to confuse myself). Currently, I'm looking into AI stuff, it seems trendy. 
 
+<img src="https://user-images.githubusercontent.com/55935207/156491719-7fedf74a-e72a-4de9-b81e-7b88421ca64a.gif" width="400" height="400" /> <img src="https://user-images.githubusercontent.com/55935207/156935021-527fe4d6-eb41-421b-a8e2-8305f1a872c2.gif" width="400" height="400" />
+
+
 # Contacts
 - <a href="https://blucardin.github.io/">Website</a>
 - <a href="https://www.linkedin.com/in/noah-virjee-939029193">LinkedIn</a>
@@ -11,8 +14,7 @@ I mostly work in python, but I also know Javascipt (for web development), java (
 
 Feel free to connect or reach out to me! 
 
-## Some Art I Made
-![image](https://github.com/blucardin/cartoonify/blob/0eb2b040f14a9f3a0150a865b8e2566fbe06bc86/treesOutput40.png?raw=true)
+
 
 
 <!--
