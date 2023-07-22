@@ -1,19 +1,16 @@
 # Hi there, I'm Noah 👋 
 
-I am a grade 10 high school student in Toronto, Canada. I mostly write in python, but I am trying to diversify. 
+I am a ~~grade 12 high school student~~ aspiring developer in Toronto, Canada. I like helping people, solving problems, and doing cool things. 
 
+I mostly work in python, but I also know Javascipt (for web development), java (for school), and C (when I want to confuse myself). Currently, I'm looking into AI stuff, it seems trendy. 
 
 # Contacts
+- <a href="https://blucardin.github.io/">Website</a>
 - <a href="https://www.linkedin.com/in/noah-virjee-939029193">LinkedIn</a>
 - <a href="https://www.instagram.com/noahvirjee31/">Instagram</a>
-- <a href="https://dmoj.ca/user/Pacal">DMOJ</a>
 
-Feel free to connect or reach out to me!
+Feel free to connect or reach out to me! 
 
-
-
-
-![Noah's github stats](https://github-readme-stats.vercel.app/api?username=blucardin)
 
 <!--
 **blucardin/blucardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
