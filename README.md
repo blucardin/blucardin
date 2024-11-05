@@ -1,6 +1,6 @@
 # Hi there, I'm Noah 👋 
 
-I am a grade 12 high school student and aspiring developer in Toronto, Canada. I like helping people, solving problems, and doing cool things. 
+I am aspiring developer in Toronto, Canada. I like helping people, solving problems, and doing cool things. 
 
 I mostly work in python, but I also know Javascipt (for web development), java (for school), and C (when I want to confuse myself). Currently, I'm looking into AI stuff, it seems trendy. 
 
