@@ -1,6 +1,6 @@
 # Hello, I'm Noah.
 
-I am Mathematics and Computer Science student at the University of British Columbia.
+I am a Mathematics and Computer Science student at the University of British Columbia.
 
 I mostly work in Rust and C++, but I enjoy learning new languages and tools. 
 
